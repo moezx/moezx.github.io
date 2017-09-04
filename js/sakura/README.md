@@ -1,5 +1,6 @@
 ```HTML
-<link type="text/css" rel="stylesheet" media="screen" href="https://mashirozx.github.io/js/sakura/jquery-sakura.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="https://moezx.github.io/js/sakura/jquery-sakura.css" />
+<script src="https://moezx.github.io/js/sakura/jquery-sakura.js"></script>
 <script>
     $(function() {
         $('body').sakura();
