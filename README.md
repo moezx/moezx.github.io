@@ -1,1 +1,2 @@
-# moezx.github.io
+# storage
+js / css / html colections 
