@@ -20,7 +20,7 @@
 #	127.0.0.1       localhost
 #	::1             localhost
 
-#pixiv
+#Pixiv
 210.129.120.41 www.pixiv.net
 210.129.120.41 accounts.pixiv.net
 210.129.120.41 touch.pixiv.net
@@ -32,4 +32,9 @@
 210.129.120.44 touch.pixiv.net
 210.129.120.41 pixiv.net
 210.140.131.147 source.pixiv.net
+210.129.120.41	accounts.pixiv.net
+210.140.131.147	imgaz.pixiv.net
+210.129.120.44	app-api.pixiv.net
+210.129.120.48	oauth.secure.pixiv.net
+#Pixiv End
 ###These added by Mashiro. https://2heng.xin
