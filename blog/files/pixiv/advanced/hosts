@@ -1,0 +1,200 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+#Pixiv
+210.129.120.41	www.pixiv.net
+210.129.120.41	accounts.pixiv.net
+210.129.120.41	touch.pixiv.net
+210.129.120.43	www.pixiv.net
+210.129.120.43	accounts.pixiv.net
+210.129.120.43	touch.pixiv.net
+210.129.120.44	www.pixiv.net
+210.129.120.44	accounts.pixiv.net
+210.129.120.44	touch.pixiv.net
+210.129.120.41	pixiv.net
+210.140.131.147	source.pixiv.net
+210.129.120.41	accounts.pixiv.net
+210.140.131.147	imgaz.pixiv.net
+210.129.120.44	app-api.pixiv.net
+210.129.120.48	oauth.secure.pixiv.net
+210.129.120.41	dic.pixiv.net
+210.140.131.153	comic.pixiv.net
+210.129.120.43	factory.pixiv.net 
+74.120.148.207	g-client-proxy.pixiv.net
+210.140.170.179	sketch.pixiv.net
+210.129.120.43	payment.pixiv.net
+210.129.120.41	sensei.pixiv.net
+210.140.131.144	novel.pixiv.net
+## Above are basic IPs and subdomains.
+
+210.140.131.135	imgsi1.pixiv.net
+210.140.131.136	imgsi1.pixiv.net
+210.140.131.137	imgsi1.pixiv.net
+210.140.131.134	imgsi1.pixiv.net
+210.140.131.140	imgsi2.pixiv.net
+210.140.131.141	imgsi2.pixiv.net
+210.140.131.139	imgsi2.pixiv.net
+210.140.131.139	i4.pixiv.net
+210.140.131.140	i4.pixiv.net
+210.140.131.141	i4.pixiv.net
+210.140.131.144	comic.pixiv.net
+210.140.131.145	comic.pixiv.net
+210.140.131.153	comic.pixiv.net
+210.140.131.147	source.pixiv.net
+210.140.131.144	source.pixiv.net
+113.33.39.198	p2.pixiv.net
+210.129.120.10	gate210-129-120-10.pixiv.net
+210.129.120.100	gate210-129-120-100.pixiv.net
+210.129.120.101	gate210-129-120-101.pixiv.net
+210.129.120.102	gate210-129-120-102.pixiv.net
+210.129.120.103	gate210-129-120-103.pixiv.net
+210.129.120.104	gate210-129-120-104.pixiv.net
+210.129.120.105	gate210-129-120-105.pixiv.net
+210.129.120.106	gate210-129-120-106.pixiv.net
+210.129.120.107	gate210-129-120-107.pixiv.net
+210.129.120.108	gate210-129-120-108.pixiv.net
+210.129.120.109	gate210-129-120-109.pixiv.net
+210.129.120.11	gate210-129-120-11.pixiv.net
+210.129.120.110	gate210-129-120-110.pixiv.net
+210.129.120.111	gate210-129-120-111.pixiv.net
+210.129.120.112	gate210-129-120-112.pixiv.net
+210.129.120.113	gate210-129-120-113.pixiv.net
+210.129.120.114	gate210-129-120-114.pixiv.net
+210.129.120.115	gate210-129-120-115.pixiv.net
+210.129.120.116	gate210-129-120-116.pixiv.net
+210.129.120.117	gate210-129-120-117.pixiv.net
+210.129.120.118	gate210-129-120-118.pixiv.net
+210.129.120.119	gate210-129-120-119.pixiv.net
+210.129.120.12	gate210-129-120-12.pixiv.net
+210.129.120.120	gate210-129-120-120.pixiv.net
+210.129.120.121	gate210-129-120-121.pixiv.net
+210.129.120.122	gate210-129-120-122.pixiv.net
+210.129.120.123	gate210-129-120-123.pixiv.net
+210.129.120.124	gate210-129-120-124.pixiv.net
+210.129.120.125	gate210-129-120-125.pixiv.net
+210.129.120.126	gate210-129-120-126.pixiv.net
+210.129.120.13	gate210-129-120-13.pixiv.net
+210.129.120.14	gate210-129-120-14.pixiv.net
+210.129.120.15	gate210-129-120-15.pixiv.net
+210.129.120.16	gate210-129-120-16.pixiv.net
+210.129.120.17	gate210-129-120-17.pixiv.net
+210.129.120.18	gate210-129-120-18.pixiv.net
+210.129.120.19	gate210-129-120-19.pixiv.net
+210.129.120.20	gate210-129-120-20.pixiv.net
+210.129.120.21	gate210-129-120-21.pixiv.net
+210.129.120.22	gate210-129-120-22.pixiv.net
+210.129.120.23	gate210-129-120-23.pixiv.net
+210.129.120.24	gate210-129-120-24.pixiv.net
+210.129.120.25	gate210-129-120-25.pixiv.net
+210.129.120.26	gate210-129-120-26.pixiv.net
+210.129.120.27	gate210-129-120-27.pixiv.net
+210.129.120.28	gate210-129-120-28.pixiv.net
+210.129.120.29	gate210-129-120-29.pixiv.net
+210.129.120.30	gate210-129-120-30.pixiv.net
+210.129.120.31	gate210-129-120-31.pixiv.net
+210.129.120.32	gate210-129-120-32.pixiv.net
+210.129.120.33	gate210-129-120-33.pixiv.net
+210.129.120.34	gate210-129-120-34.pixiv.net
+210.129.120.35	gate210-129-120-35.pixiv.net
+210.129.120.36	gate210-129-120-36.pixiv.net
+210.129.120.37	gate210-129-120-37.pixiv.net
+210.129.120.38	gate210-129-120-38.pixiv.net
+210.129.120.39	gate210-129-120-39.pixiv.net
+210.129.120.40	gate210-129-120-40.pixiv.net
+210.129.120.41	pixiv.net
+210.129.120.41	gate210-129-120-41.pixiv.net
+210.129.120.41	dic.pixiv.net
+210.129.120.41	embed.pixiv.net
+210.129.120.42	gate210-129-120-42.pixiv.net
+210.129.120.43	pixiv.net
+210.129.120.43	pixiv.net
+210.129.120.43	gate210-129-120-43.pixiv.net
+210.129.120.43	dic.pixiv.net
+210.129.120.43	embed.pixiv.net
+210.129.120.44	pixiv.net
+210.129.120.44	gate210-129-120-44.pixiv.net
+210.129.120.44	dic.pixiv.net
+210.129.120.44	embed.pixiv.net
+210.129.120.45	gate210-129-120-45.pixiv.net
+210.129.120.46	gate210-129-120-46.pixiv.net
+210.129.120.47	gate210-129-120-47.pixiv.net
+210.129.120.48	gate210-129-120-48.pixiv.net
+210.129.120.49	gate210-129-120-49.pixiv.net
+210.129.120.5	gate210-129-120-5.pixiv.net
+210.129.120.50	gate210-129-120-50.pixiv.net
+210.129.120.51	gate210-129-120-51.pixiv.net
+210.129.120.52	gate210-129-120-52.pixiv.net
+210.129.120.53	gate210-129-120-53.pixiv.net
+210.129.120.54	gate210-129-120-54.pixiv.net
+210.129.120.55	gate210-129-120-55.pixiv.net
+210.129.120.56	gate210-129-120-56.pixiv.net
+210.129.120.57	gate210-129-120-57.pixiv.net
+210.129.120.58	gate210-129-120-58.pixiv.net
+210.129.120.59	gate210-129-120-59.pixiv.net
+210.129.120.6	gate210-129-120-6.pixiv.net
+210.129.120.60	gate210-129-120-60.pixiv.net
+210.129.120.60	ns1.pixiv.net
+210.129.120.61	gate210-129-120-61.pixiv.net
+210.129.120.62	gate210-129-120-62.pixiv.net
+210.129.120.62	ns2.pixiv.net
+210.129.120.63	gate210-129-120-63.pixiv.net
+210.129.120.64	gate210-129-120-64.pixiv.net
+210.129.120.65	gate210-129-120-65.pixiv.net
+210.129.120.66	gate210-129-120-66.pixiv.net
+210.129.120.67	gate210-129-120-67.pixiv.net
+210.129.120.68	gate210-129-120-68.pixiv.net
+210.129.120.69	gate210-129-120-69.pixiv.net
+210.129.120.7	gate210-129-120-7.pixiv.net
+210.129.120.70	gate210-129-120-70.pixiv.net
+210.129.120.71	gate210-129-120-71.pixiv.net
+210.129.120.72	gate210-129-120-72.pixiv.net
+210.129.120.73	gate210-129-120-73.pixiv.net
+210.129.120.74	gate210-129-120-74.pixiv.net
+210.129.120.75	gate210-129-120-75.pixiv.net
+210.129.120.76	gate210-129-120-76.pixiv.net
+210.129.120.77	gate210-129-120-77.pixiv.net
+210.129.120.78	gate210-129-120-78.pixiv.net
+210.129.120.79	gate210-129-120-79.pixiv.net
+210.129.120.8	gate210-129-120-8.pixiv.net
+210.129.120.80	gate210-129-120-80.pixiv.net
+210.129.120.81	gate210-129-120-81.pixiv.net
+210.129.120.82	gate210-129-120-82.pixiv.net
+210.129.120.83	gate210-129-120-83.pixiv.net
+210.129.120.84	gate210-129-120-84.pixiv.net
+210.129.120.85	gate210-129-120-85.pixiv.net
+210.129.120.86	gate210-129-120-86.pixiv.net
+210.129.120.87	gate210-129-120-87.pixiv.net
+210.129.120.88	gate210-129-120-88.pixiv.net
+210.129.120.89	gate210-129-120-89.pixiv.net
+210.129.120.9	gate210-129-120-9.pixiv.net
+210.129.120.90	gate210-129-120-90.pixiv.net
+210.129.120.91	gate210-129-120-91.pixiv.net
+210.129.120.92	gate210-129-120-92.pixiv.net
+210.129.120.93	gate210-129-120-93.pixiv.net
+210.129.120.94	gate210-129-120-94.pixiv.net
+210.129.120.95	gate210-129-120-95.pixiv.net
+210.129.120.96	gate210-129-120-96.pixiv.net
+210.129.120.97	gate210-129-120-97.pixiv.net
+210.129.120.98	gate210-129-120-98.pixiv.net
+210.129.120.99	gate210-129-120-99.pixiv.net
+#Pixiv End
+###These added by Mashiro. Visit https://2heng.xin/2017/09/19/pixiv/
