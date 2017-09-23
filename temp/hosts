@@ -32,9 +32,17 @@
 210.129.120.44 touch.pixiv.net
 210.129.120.41 pixiv.net
 210.140.131.147 source.pixiv.net
-210.129.120.41	accounts.pixiv.net
+210.129.120.41 accounts.pixiv.net
 210.140.131.147	imgaz.pixiv.net
-210.129.120.44	app-api.pixiv.net
-210.129.120.48	oauth.secure.pixiv.net
+210.129.120.44 app-api.pixiv.net
+210.129.120.48 oauth.secure.pixiv.net
+210.129.120.41 dic.pixiv.net
+210.140.131.153 comic.pixiv.net
+210.129.120.43 factory.pixiv.net 
+74.120.148.207 g-client-proxy.pixiv.net
+210.140.170.179 sketch.pixiv.net
+210.129.120.43 payment.pixiv.net
+210.129.120.41 sensei.pixiv.net
+210.140.131.144 novel.pixiv.net
 #Pixiv End
 ###These added by Mashiro. https://2heng.xin
