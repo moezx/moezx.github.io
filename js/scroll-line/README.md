@@ -18,4 +18,4 @@ At the end:
 <script  src="https://moezx.github.io/js/scroll-line/scroll-line.js"></script>
 ```
 
-**Absoultely, you need jquery.
+**Absoultely, you need jquery.**
