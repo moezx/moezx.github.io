@@ -1,6 +1,6 @@
 #### 一个可以显示页面滚动进度的滚动条
 
-In `<head>`:
+In `<head></head>`:
 
 ```html
 <link rel="stylesheet" href="https://moezx.github.io/js/scroll-line/scroll-line.css">
@@ -19,3 +19,5 @@ At the end:
 ```
 
 **Absoultely, you need jquery.**
+
+新增了在`<span></span>`内显示进度的功能。
