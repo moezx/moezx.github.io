@@ -4,4 +4,4 @@
 
 CDN域名：https://moezx.2heng.xin
 
-测试域名：https:moezx.github.io
+测试域名：https://moezx.github.io
