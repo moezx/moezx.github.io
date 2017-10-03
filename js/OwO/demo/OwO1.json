@@ -269,16 +269,16 @@
             }
         ]
     },
-    " :huaji: ": {
+    "贴吧 :good: ": {
         "type": "image",
         "container": [
             {
-                "icon": "<img src=\"//o5mvhz1ad.qnssl.com/jz1.jpg\">",
-                "text": "face1"
+                "icon": " :good: ",
+                "text": "乖"
             },
             {
-                "icon": "<img src=\"//o5mvhz1ad.qnssl.com/jz2.gif\">",
-                "text": "face2"
+                "icon": " :huaji: ",
+                "text": "滑稽"
             },
             {
                 "icon": "<img src=\"//o5mvhz1ad.qnssl.com/jz3.gif\">",
