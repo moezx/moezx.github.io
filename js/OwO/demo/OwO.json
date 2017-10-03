@@ -269,7 +269,7 @@
             }
         ]
     },
-    "贴吧 :good: ": {
+    "我会尽快吧贴吧表情整合进来的😝": {
         "type": "image",
         "container": [
             {
@@ -279,26 +279,6 @@
             {
                 "icon": " :huaji: ",
                 "text": "滑稽"
-            },
-            {
-                "icon": "<img src=\"//o5mvhz1ad.qnssl.com/jz3.gif\">",
-                "text": "face3"
-            },
-            {
-                "icon": "<img src=\"//o5mvhz1ad.qnssl.com/jz4.gif\">",
-                "text": "face4"
-            },
-            {
-                "icon": "<img src=\"//o5mvhz1ad.qnssl.com/jz5.jpg\">",
-                "text": "face5"
-            },
-            {
-                "icon": "<img src=\"//o5mvhz1ad.qnssl.com/jz6.gif\">",
-                "text": "face6"
-            },
-            {
-                "icon": "<img src=\"//o5mvhz1ad.qnssl.com/jz7.jpg\">",
-                "text": "face6"
             }
         ]
     }
