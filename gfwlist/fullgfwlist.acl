@@ -5703,7 +5703,8 @@
 (^|\.)bole\.shangshufang\.ksosoft\.com$
 (^|\.)counter\.kingsoft\.com$
 (^|\.)dl\.op\.wpscdn\.cn$
-(^|\.)hoplink\.ksosoft\.com$
+# 金山词霸的说...
+# (^|\.)hoplink\.ksosoft\.com$
 (^|\.)ic\.ksosoft\.com$
 (^|\.)img.*\.mini\.cache\.wps\.cn$
 (^|\.)img\.gou\.wpscdn\.cn$
