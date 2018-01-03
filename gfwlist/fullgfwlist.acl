@@ -26,6 +26,9 @@
 
 (^|\.)2heng\.xin$
 
+# 金山词霸的说...
+(^|\.)hoplink\.ksosoft\.com$
+
 #IPv6站点
 (^|\.)byr\.cn$
 
@@ -5703,8 +5706,6 @@
 (^|\.)bole\.shangshufang\.ksosoft\.com$
 (^|\.)counter\.kingsoft\.com$
 (^|\.)dl\.op\.wpscdn\.cn$
-# 金山词霸的说...
-# (^|\.)hoplink\.ksosoft\.com$
 (^|\.)ic\.ksosoft\.com$
 (^|\.)img.*\.mini\.cache\.wps\.cn$
 (^|\.)img\.gou\.wpscdn\.cn$
