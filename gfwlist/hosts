@@ -7,7 +7,11 @@
 
 # Modified Hosts Start
 
-# �������15241�п�ʼ
+# 广告屏蔽15241行开始
+
+# http://ougy71baa.bkt.clouddn.com 七牛云测试域名
+# http://2heng-xin.test.upcdn.net/ 又拍云测试域名
+# http://api-2heng-xin.test.upcdn.net
 
 # Localhost (DO NOT REMOVE) Start
 127.0.0.1	localhost
@@ -16,10 +20,23 @@
 ::1	ip6-loopback
 # Localhost (DO NOT REMOVE) End
 
-# 360 CDN ר�ò���ͨ��
-#120.52.19.89	2heng.xin
-#45.32.54.252	2heng.xin
-#2001:19f0:7001:3688:5400:01ff:fe33:b064 2heng.xin
+# 360 CDN 
+#120.52.19.89	cdn.2heng.xin
+# 又拍云 CDN
+#120.221.19.218	2heng.xin
+# 七牛
+#218.205.82.6	cdn.2heng.xin
+
+45.32.54.252	2heng.xin
+45.32.54.252	cdn.2heng.xin
+
+#45.32.54.252	tel233.shino.cc
+
+# IPv6
+#2001:19f0:7001:3688:5400:01ff:fe33:b064	2heng.xin
+#2001:19f0:7001:3688:5400:01ff:fe33:b064	cdn.2heng.xin
+
+104.244.42.1	twitter.com
 
 # Akamai Start
 23.201.102.89	a248.e.akamai.net
@@ -2887,7 +2904,7 @@
 # Pinterest End
 
 # Pixiv Start
-210.129.120.55	www.pixiv.net
+210.129.120.44	www.pixiv.net
 210.129.120.43	touch.pixiv.net
 210.140.131.146	source.pixiv.net
 210.129.120.41	accounts.pixiv.net
@@ -2898,7 +2915,7 @@
 210.140.131.145	comic.pixiv.net
 210.129.120.53	factory.pixiv.net
 74.120.148.205	g-client-proxy.pixiv.net
-210.140.170.179	sketch.pixiv.net
+210.140.174.37	sketch.pixiv.net
 210.129.120.52	payment.pixiv.net
 210.129.120.51	sensei.pixiv.net
 210.140.131.144	novel.pixiv.net
@@ -3151,6 +3168,7 @@
 198.35.26.96	wuu.wikipedia.org
 198.35.26.96	zh-yue.wikipedia.org
 198.35.26.96	zh.wikipedia.org
+198.35.26.96	ja.wikipedia.org
 198.35.26.96	zh.m.wikipedia.org
 198.35.26.112	upload.wikimedia.org
 # Wikipedia End
@@ -15244,5 +15262,12 @@
 173.194.51.88	r19---sn-oguesnle.xn--ngstr-lra8j.com
 173.194.51.89	r20---sn-oguesnle.xn--ngstr-lra8j.com
 # Google XN End
+
+# Steam
+23.37.147.226	steamcommunity.com
+# Steam End 
+
+# 广告
+#45.32.54.252 hoplink.ksosoft.com
 
 # Modified Hosts End
