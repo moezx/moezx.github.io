@@ -4,6 +4,8 @@
 var proxy = "__PROXY__";
 
 var rules = [
+  "||stackoverflow.com",
+  "||stat.ethz.ch",
   "||2dbook.com",
   "||4tern.com",
   "|http://85.17.73.31/",
@@ -22,6 +24,7 @@ var rules = [
   "||beeg.com",
   "||bloombergview.com",
   "||boysmaster.com",
+  "||bt.byr.cn",
   "||carfax.com",
   ".casinobellini.com",
   "||casinobellini.com",
@@ -58,7 +61,7 @@ var rules = [
   "||g-area.org",
   "||gettyimages.com",
   "||getuploader.com",
-  "|https://github.com/programthink/zhao",
+  "||github.io",
   "||glass8.eu",
   "||glype.com",
   "||go141.com",
@@ -5687,10 +5690,6 @@ var rules = [
   "|http://zh.wikinews.org",
   "|http://zh.wikivoyage.org",
   "|http://zh.wiktionary.org",
-  "zh.wikipedia.org",
-  "zh.m.wikipedia.org",
-  "|https://zh.m.wikipedia.org",
-  "|https://zh.wikipedia.org",
   "wuu.wikipedia.org",
   "|https://wuu.wikipedia.org",
   "zh-yue.wikipedia.org",
