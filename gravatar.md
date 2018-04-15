@@ -15,15 +15,11 @@
 
 [![全球通用头像Gravatar申请教程](http://imgs.zmingcx.com/wp-content/uploads/2014/11/gravatar.jpg)](http://imgs.zmingcx.com/wp-content/uploads/2014/11/gravatar.jpg)
 
-Gravatar
-
 ### 输入相关信息
 
 输入你常用的邮箱址、名称、密码（8个字符以上）等相关信息，点击“sign up”按钮提交。
 
 [![全球通用头像Gravatar申请教程](http://imgs.zmingcx.com/wp-content/uploads/2014/11/gravatar-2.jpg)](http://imgs.zmingcx.com/wp-content/uploads/2014/11/gravatar-2.jpg)
-
-gravatar
 
 系统会自动发送一封确认邮件到你输入的邮箱。
 
@@ -33,13 +29,9 @@ gravatar
 
 [![全球通用头像Gravatar申请教程](http://imgs.zmingcx.com/wp-content/uploads/2014/11/gravatar-3.jpg)](http://imgs.zmingcx.com/wp-content/uploads/2014/11/gravatar-3.jpg)
 
-gravatar
-
 进入如下页面，并点击“Sign in to Gravatar”按钮，登录到Gravatar。
 
 [![全球通用头像Gravatar申请教程](http://imgs.zmingcx.com/wp-content/uploads/2014/11/gravatar-4.jpg)](http://imgs.zmingcx.com/wp-content/uploads/2014/11/gravatar-4.jpg)
-
-gravatar
 
 ### 添加头像图片
 
@@ -47,12 +39,8 @@ gravatar
 
 [![全球通用头像Gravatar申请教程](http://imgs.zmingcx.com/wp-content/uploads/2014/11/gravatar-5.jpg)](http://imgs.zmingcx.com/wp-content/uploads/2014/11/gravatar-5.jpg)
 
-gravatar
-
 点击第一个图标按钮，并选择电脑中已制作好的头像图片，点击“Netx”按钮，上传图片。
 
 [![全球通用头像Gravatar申请教程](http://imgs.zmingcx.com/wp-content/uploads/2014/11/gravatar-6.jpg)](http://imgs.zmingcx.com/wp-content/uploads/2014/11/gravatar-6.jpg)
-
-gravatar
 
 之后进入图片编辑页面，点击“Crop and Finish!”按钮，进入“选择一个评级为你的Gravatar”页面，选择大写字母G的图标，全部完成。
