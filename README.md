@@ -1,6 +1,4 @@
-# js / css / html colections 
-
-也用作CDN加速仓库
+[![](https://data.jsdelivr.com/v1/package/gh/moezx/moezx.github.io/badge)](https://www.jsdelivr.com/package/gh/moezx/moezx.github.io)
 
 个性域名：https://pages.shino.cc
 
