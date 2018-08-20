@@ -21,16 +21,16 @@
 #	::1             localhost
 
 #Pixiv Start
-210.129.120.49  pixiv.net 
-210.129.120.49  www.pixiv.net 
-210.140.92.143  i.pximg.net
-210.140.131.146 source.pixiv.net 
-210.129.120.56  accounts.pixiv.net 
-210.129.120.56  touch.pixiv.net
+210.129.120.50  pixiv.net 
+210.129.120.50  www.pixiv.net 
+210.140.92.135  i.pximg.net
+210.140.131.144 source.pixiv.net 
+210.129.120.46  accounts.pixiv.net 
+210.129.120.46  touch.pixiv.net
 210.140.131.147 imgaz.pixiv.net 
-210.129.120.44  app-api.pixiv.net 
-210.129.120.48  oauth.secure.pixiv.net 
-210.129.120.41  dic.pixiv.net 
+210.129.120.50  app-api.pixiv.net 
+210.129.120.50  oauth.secure.pixiv.net 
+210.129.120.52  dic.pixiv.net 
 210.140.131.153 comic.pixiv.net 
 210.129.120.43  factory.pixiv.net  
 74.120.148.207  g-client-proxy.pixiv.net 
@@ -46,7 +46,7 @@
 210.140.131.159 d.pixiv.org 
 210.140.92.135  pixiv.pximg.net  
 210.129.120.56  fanbox.pixiv.net
-210.140.92.141  s.pximg.net
+210.140.92.134  s.pximg.net
 #Pixiv End
 ###These added by Mashiro. https://2heng.xin
-#Updated: Thu May 24 22:48:09 2018
+#Updated: Thu Aug 20 22:48:09 2018
