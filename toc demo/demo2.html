@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>tocbot.fix</title>
+
+	<style>
+		html,
+		body {
+			width: 100%;
+			height: 100%;
+			margin: 0;
+			padding: 0;
+			overflow: hidden
+		}
+
+		body {
+			display: -webkit-flex;
+			display: flex;
+			flex-direction: row;
+			justify-content: space-between;
+			align-items: stretch
+		}
+
+		main {
+			background-color: antiquewhite;
+			height: 100%;
+			flex-grow: 2;
+			overflow-y: auto
+		}
+
+		aside {
+			background-color: azure;
+			height: 100%;
+			flex-grow: 1
+		}
+
+		.tov {
+			width: 100%;
+			height: 100%;
+		}
+
+	</style>
+
+	<link rel="stylesheet" href="./tocbot.css" type="text/css">
+	<script src="tocbot.fix.min.js"></script>
+
+</head>
+
+<body>
+	<main>
+		<article>
+			<h1 id="1">H1</h1>
+			<h2 id="2">H2</h2>
+			<p>This is a fixed verison: tocbot.fix.js, scroll down ↓↓↓↓↓</p>
+			<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+			<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+			<h1 id="3">H1</h1>
+			<h2 id="4">H2</h2>
+			<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+			<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+			<h1 id="5">H1</h1>
+			<h2 id="6">H2</h2>
+			<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+			<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+			<h1 id="7">H1</h1>
+			<h2 id="8">H2</h2>
+			<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+			<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+			<h1 id="9">H1</h1>
+			<h2 id="10">H2</h2>
+			<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+			<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+		</article>
+	</main>
+	<aside>
+		<div class="toc"></div>
+	</aside>
+
+	<script>
+		tocbot.init({
+			// Where to render the table of contents.
+			tocSelector: '.toc',
+			// Where to grab the headings to build the table of contents.
+			contentSelector: 'article',
+			// Which headings to grab inside of the contentSelector element.
+			headingSelector: 'h1, h2',
+			positionFixedContainer: 'main',
+		});
+
+	</script>
+
+</body>
+
+</html>
