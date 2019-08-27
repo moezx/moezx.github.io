@@ -1,29 +1,33 @@
+########################################################
+## 本文件及文件中的IP地址【禁止以任何形式公开分享】， ##
+## 包括且不限于微博、贴吧、空间、QQ群、朋友圈、B站。  ##
+## 复制或私人分享时【必须保留】这段文字。             ##
+## 使用说明见： https://2heng.xin/2017/09/19/pixiv/   ##
+## Copyright 樱花庄的白猫，代理服务器由 Mashiro 维护  ##
+########################################################
+
 #Pixiv Start
-123.207.63.52 pixiv.net 
-123.207.63.52 www.pixiv.net 
+123.207.63.52 pixiv.net
+123.207.63.52 www.pixiv.net
 123.207.63.52 ssl.pixiv.net
-123.207.63.52 accounts.pixiv.net 
+123.207.63.52 accounts.pixiv.net
 123.207.63.52 touch.pixiv.net
 123.207.63.52 oauth.secure.pixiv.net
 123.207.63.52 dic.pixiv.net
-123.207.63.52 en-dic.pixiv.net 
+123.207.63.52 en-dic.pixiv.net
 123.207.63.52 payment.pixiv.net
-123.207.63.52 factory.pixiv.net 
-123.207.63.52 comic.pixiv.net  
-123.207.63.52 novel.pixiv.net 
-123.207.63.52 imgaz.pixiv.net 
+123.207.63.52 factory.pixiv.net
+123.207.63.52 comic.pixiv.net
+123.207.63.52 novel.pixiv.net
+123.207.63.52 imgaz.pixiv.net
 123.207.63.52 sensei.pixiv.net
 123.207.63.52 fanbox.pixiv.net
-123.207.63.52 i.pximg.net
-123.207.63.52 app-api.pixiv.net  
-123.207.63.52 source.pixiv.net 
-123.207.63.52 i1.pixiv.net 
-123.207.63.52 i2.pixiv.net 
-123.207.63.52 i3.pixiv.net 
+123.207.63.52 app-api.pixiv.net
+123.207.63.52 source.pixiv.net
+123.207.63.52 i1.pixiv.net
+123.207.63.52 i2.pixiv.net
+123.207.63.52 i3.pixiv.net
 123.207.63.52 i4.pixiv.net
-
-74.120.148.207 g-client-proxy.pixiv.net 
-210.140.131.159 d.pixiv.org 
-210.140.92.135 pixiv.pximg.net  
-210.140.92.134 s.pximg.net
+123.207.63.52 www.google.com
+123.207.63.52 scholar.google.com
 #Pixiv End
